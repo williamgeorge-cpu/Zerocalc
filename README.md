@@ -1,4 +1,4 @@
-
+text</b>
   ________________________________________________________________________________
  |ZZZZZZZZZ EEEEEEEEE RRRRRRR      OOOOO    CCCCCCCC     A     LL         CCCCCCCC|
  |    ZZZZ  E         R      RR  OO     OO CCCC         A A    LL        CCCC     |
@@ -7,6 +7,7 @@
  |ZZZZZZZZZ EEEEEEEEE R      RR    OOOOO    CCCCCCCC A       A LLLLLLLLL  CCCCCCCC|
   ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
      ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+     <b>
 
 
 My first project for the TI 84 Plus CE!
